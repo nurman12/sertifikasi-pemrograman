@@ -1,3 +1,10 @@
+## Config
+
+- Jalankan php artisan storage:link
+- Tambahkan pada .env 
+**FILESYSTEM_DRIVER=public**
+**APP_TIMEZONE=Asia/Jakarta**
+
 ## Tampilan Website
  
 - **Index** - Arsip
