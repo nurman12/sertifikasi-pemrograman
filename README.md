@@ -3,7 +3,7 @@
 - Jalankan `php artisan storage:link`
 - Tambahkan pada `.env` 
 1. FILESYSTEM_DRIVER=public
-2. APP_TIMEZONE**=Asia/Jakarta 
+2. APP_TIMEZONE=Asia/Jakarta 
 
 ## Tampilan Website
  
